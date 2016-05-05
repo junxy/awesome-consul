@@ -1,7 +1,7 @@
 
 This is a list of awesome third-party consul projects, libraries.
 
-## Why consul
+## Why Consul
 
 + Easy to install
 + HTTP APIs
@@ -9,11 +9,12 @@ This is a list of awesome third-party consul projects, libraries.
 + Flexible health check
 + Excellent documentation
 
-## Awesome consul
+## Awesome Consul
 
 + [Package](#Package)
 + [Provision](#provision)
 + [Programming Language Clients](#programming-language-clients)
++ [Service registrar](#Service-registrar)
 + [Notification](#notification)
 + [Practices](#practices)
 
@@ -74,6 +75,11 @@ This is a list of awesome third-party consul projects, libraries.
     + [oliora/ppconsul](https://github.com/oliora/ppconsul)
 + Erlang/OTP
     + [undeadlabs/discovery](https://github.com/undeadlabs/discovery)
+
+### Service Registrar
+
++ [helios-consul](https://github.com/SVT/helios-consul) - Service registrar plugin for Helios
++ [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker
 
 ### Notification
 
