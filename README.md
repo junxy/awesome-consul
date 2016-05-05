@@ -120,3 +120,4 @@ $ bin/consul agent -config-dir ./consul.d
 + [kvexpress: Go program to move data in and out of Consul's KV store](https://github.com/DataDog/kvexpress)
 + [sifter: Helps to prevent Consul from firing prematurely](https://github.com/darron/sifter)
 + [uwsgi-consul: uWSGI plugin for consul integration](https://github.com/unbit/uwsgi-consul)
++ [Official:CONSUL TOOLS](https://www.consul.io/downloads_tools.html)
