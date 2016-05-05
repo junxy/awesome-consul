@@ -51,6 +51,7 @@ This is a list of awesome third-party consul projects, libraries.
     + [baldurrensch/consul-php](https://github.com/baldurrensch/consul-php)
     + [sensiolabs/consul-php-sdk](https://github.com/sensiolabs/consul-php-sdk)
 + Go
+    + [hashicorp/consul](https://github.com/hashicorp/consul)
     + [armon/consul-api](https://github.com/armon/consul-api)
 + Java
     + [Ecwid/consul-api](https://github.com/Ecwid/consul-api)
@@ -67,6 +68,12 @@ This is a list of awesome third-party consul projects, libraries.
     + [xaviershay/consul-client](https://github.com/xaviershay/consul-client)
 + Scala
     + [codacy/scala-consul](https://github.com/codacy/scala-consul)
++ C#
+    + [PlayFab/consuldotnet](https://github.com/PlayFab/consuldotnet)
++ C++
+    + [oliora/ppconsul](https://github.com/oliora/ppconsul)
++ Erlang/OTP
+    + [undeadlabs/discovery](https://github.com/undeadlabs/discovery)
 
 ### Notification
 
